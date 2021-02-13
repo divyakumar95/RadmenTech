@@ -3,7 +3,7 @@ Radmen Tech official Website
 
 ## Financial contributions
 
-We also welcome financial contributions in full transparency on our [open collective](https://opencollective.com/cezerin2).
+We also welcome financial contributions in full transparency on our [open collective](https://radmentech.com).
 Anyone can file an expense. If the expense makes sense for the development of the community, it will be "merged" in the ledger of our open collective by the core contributors and the person who filed the expense will be reimbursed.
 
 ## Credits
@@ -12,21 +12,21 @@ Anyone can file an expense. If the expense makes sense for the development of th
 ### Contributors
 
 Thank you to all the people who have already contributed to cezerin2!
-<a href="https://github.com/Cezerin2/cezerin2/graphs/contributors"><img src="https://opencollective.com/cezerin2/contributors.svg?width=890" /></a>
+<a href=""><img src="" /></a>
 
 
 ### Backers
 
-Thank you to all our backers! [[Become a backer](https://opencollective.com/cezerin2#backer)]
+Thank you to all our backers!
 
-<a href="https://opencollective.com/cezerin2#backers" target="_blank"><img src="https://opencollective.com/cezerin2/tiers/backer.svg?avatarHeight=36&width=600"></a>
+<a href="" target="_blank"><img src=""></a>
 
 
 ### Sponsors
 
-Thank you to all our sponsors! (please ask your company to also support this open source project by [becoming a sponsor](https://opencollective.com/cezerin2#sponsor))
+Thank you to all our sponsors! (please ask your company to also support this open source project by [becoming a sponsor](https://radmentech.com/))
 
-<a href="https://opencollective.com/cezerin2#sponsor" target="_blank"><img src="https://opencollective.com/cezerin2/tiers/sponsor.svg?avatarHeight=36&width=600"></a>
+<a href="" target="_blank"><img src=""></a>
 
 
 ## Contributing
