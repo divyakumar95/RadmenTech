@@ -29,17 +29,17 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>About Us</h2>
-            <Link to='/sign-up'>How it works</Link>
+            <Link to='/team'>Our Team</Link>
             <Link to='/'>Testimonials</Link>
-            <Link to='/'>Careers</Link>
-            <Link to='/'>Investors</Link>
-            <Link to='/'>Terms of Service</Link>
+            <Link to='/careers'>Careers</Link>
+            <Link to='/invest'>Investors</Link>
+            <Link to='/policy'>Terms of Service</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Contact Us</h2>
-            <Link to='/'>Contact</Link>
+            <Link to='/contact'>Contact</Link>
             <Link to='/'>Support</Link>
-            <Link to='/'>Destinations</Link>
+            <Link to='/'>Builds</Link>
             <Link to='/'>Sponsorships</Link>
           </div>
         </div>
@@ -57,6 +57,7 @@ function Footer() {
             <Link to='/'>Facebook</Link>
             <Link to='/'>Youtube</Link>
             <Link to='/'>Twitter</Link>
+            <Link to='/'>Reddit</Link>
           </div>
         </div>
       </div>
@@ -103,13 +104,21 @@ function Footer() {
               <i class='fab fa-twitter' />
             </Link>
             <Link
-              class='social-icon-link twitter'
+              class='social-icon-link linkedIn'
               to='/'
               target='_blank'
               aria-label='LinkedIn'
             >
               <i class='fab fa-linkedin' />
             </Link>
+            <Link
+              class='social-icon-link reddit'
+              to='/'
+              target='_blank'
+              aria-label='Reddit'
+            >
+              <i class='fab fa-reddit' />
+              </Link>
           </div>
         </div>
       </section>
