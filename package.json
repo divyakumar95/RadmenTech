@@ -1,0 +1,13 @@
+{
+    "homepage":"https://divyakumar95.github.io/RadmenTech/.",
+    "name": "radmentech",
+    "version": "0.1.0",
+    "dependencies": {
+        "my-app":"./my-app/",
+        "server":"./Server/"
+    },
+    "scripts": {
+    "predeploy": "npm run build",
+    "deploy":"gh-pages -d build"
+  }
+}
