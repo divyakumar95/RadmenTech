@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RadmenTech/my-app/static/css/main.f3ee6078.chunk.css",
+    "main.js": "/RadmenTech/my-app/static/js/main.eee76cda.chunk.js",
+    "main.js.map": "/RadmenTech/my-app/static/js/main.eee76cda.chunk.js.map",
+    "runtime-main.js": "/RadmenTech/my-app/static/js/runtime-main.4b5ab592.js",
+    "runtime-main.js.map": "/RadmenTech/my-app/static/js/runtime-main.4b5ab592.js.map",
+    "static/js/2.25f79999.chunk.js": "/RadmenTech/my-app/static/js/2.25f79999.chunk.js",
+    "static/js/2.25f79999.chunk.js.map": "/RadmenTech/my-app/static/js/2.25f79999.chunk.js.map",
+    "index.html": "/RadmenTech/my-app/index.html",
+    "static/css/main.f3ee6078.chunk.css.map": "/RadmenTech/my-app/static/css/main.f3ee6078.chunk.css.map",
+    "static/js/2.25f79999.chunk.js.LICENSE.txt": "/RadmenTech/my-app/static/js/2.25f79999.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RadmenTech/my-app/static/media/img-4.a31875b7.jpg",
+    "static/media/HeroSection.css": "/RadmenTech/my-app/static/media/img-home.c034239e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b5ab592.js",
+    "static/js/2.25f79999.chunk.js",
+    "static/css/main.f3ee6078.chunk.css",
+    "static/js/main.eee76cda.chunk.js"
+  ]
+}
