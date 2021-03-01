@@ -3,8 +3,8 @@
     "name": "radmentech",
     "version": "0.1.0",
     "dependencies": {
-        "my-app":"./my-app/",
-        "server":"./Server/"
+        "my-app":"./my-app/package.json",
+        "server":"./Server/package.json"
     },
     "scripts": {
     "predeploy": "npm run build",
