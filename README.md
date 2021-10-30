@@ -11,7 +11,7 @@ Anyone can file an expense. If the expense makes sense for the development of th
 
 ### Contributors
 
-Thank you to all the people who have already contributed to cezerin2!
+Thank you to all the people who have already contributed to RadmenTech!
 <a href=""><img src="" /></a>
 
 
